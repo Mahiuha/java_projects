@@ -1,4 +1,4 @@
-package SimpleRandomSentences_solution.java;
+
 
 
 /*
