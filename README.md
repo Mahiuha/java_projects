@@ -70,9 +70,9 @@ Each project directory contains its own README or instructions on how to run and
 If you'd like to contribute to this repository by adding more Java projects, improving existing ones, or fixing issues, please follow these guidelines:
 
 * Fork the repository.
-* Create a new branch for your feature: git checkout -b feature-name.
-* Make your changes and commit them: git commit -m 'Add new feature'.
-* Push to the branch: git push origin feature-name.
+* Create a new branch for your feature: ```git checkout -b feature-name```.
+* Make your changes and commit them: ```git commit -m 'Add new feature'```.
+* Push to the branch: ```git push origin feature-name```.
 * Submit a pull request.
 
 ### Author
