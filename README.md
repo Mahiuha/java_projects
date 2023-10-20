@@ -14,10 +14,10 @@ This repository contains a collection of Java projects developed by Mahiuha. Eac
 
 [![Git](https://img.shields.io/badge/≡-Git-F05032?logo=git&style=flat-square&labelColor=282828)](https://git-scm.com/)
 [![GNU_Bash](https://img.shields.io/badge/≡-GNU_Bash-4EAA25?logo=GNU-Bash&style=flat-square&labelColor=282828)](https://www.gnu.org/software/bash/)
-[![Eclipse](https://img.shields.io/badge/≡-eclipse-48B9C7?logo=eclipse_OS&style=flat-square&labelColor=282828)](https://eclipse.com/)
+[![Eclipse](https://img.shields.io/badge/≡-eclipse-A020F0?logo=eclipse_OS&style=flat-square&labelColor=282828)](https://eclipse.org/)
 [![Pop!_OS](https://img.shields.io/badge/≡-Pop!_OS-48B9C7?logo=Pop_OS&style=flat-square&labelColor=282828)](https://pop.system76.com/)
 [![VS_Code](https://img.shields.io/badge/≡-VS_Code-007ACC?logo=visual-studio-code&style=flat-square&logoColor=007ACC&labelColor=282828)](https://code.visualstudio.com/)
-[![Java](https://img.shields.io/badge/≡-java-48B9C7?logo=java_OS&style=flat-square&labelColor=282828)](https://java.com/)
+[![Java](https://img.shields.io/badge/≡-java-964B00?logo=java_OS&style=flat-square&labelColor=282828)](https://java.com/)
 [![GitHub](https://img.shields.io/badge/≡-GitHub-181717?logo=GitHub&style=flat-square&labelColor=282828)](https://github.com/)
 
 ## Project List
