@@ -8,7 +8,7 @@ This repository contains a collection of Java projects developed by Mahiuha. Eac
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [Author](#author)
 
 ## Project List
 
